@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LiftUpStudiosTest</string>
+    <string name="main_activity_string">Authentication is needed to access your password. Tap to login</string>
+    <string name="save">Save</string>
+    <string name="password">password</string>
+</resources>
